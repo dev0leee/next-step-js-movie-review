@@ -37,7 +37,7 @@
 })();
 const App = () => {
   const test = document.createElement("div");
-  test.innerHTML = `테스트`;
+  test.innerHTML = `테스트222`;
   return test;
 };
 const common = (App2) => {
